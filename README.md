@@ -26,7 +26,7 @@
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://dev.to/oscaramos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="oscaramos" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oscar ramos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oscar ramos" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oscar-ramos-8229281b5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oscar ramos" height="30" width="40" /></a>
 <a href="https://codesandbox.com/oscaramos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="oscaramos" height="30" width="40" /></a>
 <a href="https://kaggle.com/osrodz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="osrodz" height="30" width="40" /></a>
 <a href="https://medium.com/@oscar.ramos_54998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@oscar.ramos_54998" height="30" width="40" /></a>
