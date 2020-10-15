@@ -30,6 +30,7 @@
 <a href="https://codesandbox.com/oscaramos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="oscaramos" height="30" width="40" /></a>
 <a href="https://kaggle.com/osrodz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="osrodz" height="30" width="40" /></a>
 <a href="https://medium.com/@oscar.ramos_54998" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@oscar.ramos_54998" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/oscaramos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="oscaramos" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
