@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [personal portfolio](https://github.com/oscaramos/portfolio)
 
-- 🌱 I’m currently learning **Gatsby**
+- 🌱 I’m currently learning **Figma**
 
 - 👯 I’m looking to collaborate on [personal portfolio](https://github.com/oscaramos/portfolio)
 
