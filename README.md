@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscaramos" alt="oscaramos" /></a> </p>
 
-- 🔭 I’m currently working on [personal portfolio](https://github.com/oscaramos/portfolio)
+- 🔭 I’m currently working on [ListaLista](https://github.com/oscaramos/listalista)
 
 - 🌱 I’m currently learning **Next.js**
 
