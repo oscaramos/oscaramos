@@ -5,13 +5,9 @@
 
 - 🔭 I’m currently working on **Private projects**
 
-- 💬 Ask me about **React, Javascript, C++**
-
-- 📫 How to reach me **oscar.ramos@ucsp.edu.pe**
+- 📫 How to reach me **odrr.99@gmail.com**
 
 - 📄 Know about my experiences [https://oscaramos.dev/](https://oscaramos.dev/)
-
-- ⚡ Fun fact **Thomas Edison created the English word, 'Hello'.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
