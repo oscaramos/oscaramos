@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">A passionate full-stack developer from Peru</h3>
+<h3 align="center">A passionate software developer from Peru</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscaramos" alt="oscaramos" /></a> </p>
 
-- 🔭 I’m currently working on **Private projects**
+- 🔭 I’m currently doing job hunting
 
 - 📫 How to reach me **odrr.99@gmail.com**
 
