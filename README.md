@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscaramos" alt="oscaramos" /></a> </p>
 
-- 🔭 I’m currently doing job hunting
+- 🔭 Working at FractalUp
 
 - 📫 How to reach me **odrr.99@gmail.com**
 
