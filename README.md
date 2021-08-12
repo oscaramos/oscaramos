@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscaramos" alt="oscaramos" /></a> </p>
 
-- 🔭 Working at FractalUp
+- 🔭 Working at [Aceroyalty](https://aceroyalty.com/)
 
 - 📫 How to reach me **odrr.99@gmail.com**
 
