@@ -5,7 +5,7 @@
 
 - 🔭 Working at [Aceroyalty](https://aceroyalty.com/)
 
-- 📫 How to reach me **odrr.99@gmail.com**
+- 📫 How to reach me **contact@oscaramos.dev**
 
 - 📄 Know about my experiences [https://oscaramos.dev/](https://oscaramos.dev/)
 
