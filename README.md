@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscaramos" alt="oscaramos" /></a> </p>
 
-- 🔭 Working at [Aceroyalty](https://aceroyalty.com/)
+- 🔭 Working at [Lean Tech](https://www.leangroup.com/solutions/leantech)
 
 - 📫 How to reach me **contact@oscaramos.dev**
 
