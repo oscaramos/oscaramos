@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **contact@oscaramos.dev**
 
-- 📄 Know about my experiences [https://oscaramos.dev/](https://oscaramos.dev/)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscaramos&layout=compact&exclude_repo=IHC_BeatSaberParaPobres,Analisis_Numerico" alt="oscaramos" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscaramos&show_icons=true&locale=en" alt="oscaramos" /></p>
