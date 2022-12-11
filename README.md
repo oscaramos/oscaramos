@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscaramos" alt="oscaramos" /></a> </p>
 
-- 🔭 Working at [Lean Tech](https://www.leangroup.com/solutions/leantech)
-
 - 📫 How to reach me **contact@oscaramos.dev**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscaramos&layout=compact&exclude_repo=IHC_BeatSaberParaPobres,Analisis_Numerico" alt="oscaramos" /></p>
