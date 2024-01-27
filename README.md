@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscaramos" alt="oscaramos" /></a> </p>
 
 - 📫 How to reach me **https://www.linkedin.com/in/oscaramosr/**
-- 💼 In search of new opportunities!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscaramos&layout=compact&exclude_repo=IHC_BeatSaberParaPobres,Analisis_Numerico" alt="oscaramos" /></p>
 
