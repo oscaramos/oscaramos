@@ -1,10 +1,13 @@
-<h1 align="center">Hi 👋, I'm Oscar</h1>
-<h3 align="center">A passionate software developer from Peru</h3>
+# Oscar Ramos
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscaramos" alt="oscaramos" /></a> </p>
+Software engineer. I ship whole products, from UI to infrastructure to the AI in the middle.
 
-- 📫 How to reach me **https://www.linkedin.com/in/oscaramosr/**
+- **Story.com** (2023–2026). Built the video generation feature the company was founded on and ran its Remotion rendering infrastructure on EC2 as it grew past 1M users. The code is private; the product is live at [story.com](https://www.story.com/).
+- **Diagrams: Show Me** (2023). Multi-diagram-type and multi-language support and prompt design for one of the most popular ChatGPT plugins. [bra1nDump/show-me-chatgpt-plugin](https://github.com/bra1nDump/show-me-chatgpt-plugin)
+- **Lumen** (2026). Upload a Victoria 3 save, get a dashboard of the whole campaign. FastAPI, React, Docker on Fly.io. [lumen-vic3.fly.dev](https://lumen-vic3.fly.dev/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscaramos&layout=compact&exclude_repo=IHC_BeatSaberParaPobres,Analisis_Numerico" alt="oscaramos" /></p>
+TypeScript · React · Next.js · Node · Python · Remotion · AWS
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oscaramos&show_icons=true&locale=en" alt="oscaramos" /></p>
+[oscaramos.dev](https://oscaramos.dev) · [LinkedIn](https://www.linkedin.com/in/oscaramosr) · odrr.99@gmail.com
+
+Peru, UTC-5, the same working day as US Eastern.
